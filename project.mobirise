@@ -107,7 +107,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/12-inch-record-layout-185x128.png",
+              "src": "@PROJECT_PATH@/assets/images/signature-185x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -162,7 +162,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-2735-1400x2286-1.png",
+              "src": "@PROJECT_PATH@/assets/images/img-2735-1400x2286.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -180,7 +180,7 @@
               "size": 250
             }
           },
-          "title": "Amanda Aleman...<br>A Little Bit About ME",
+          "title": "Amanda Aleman...<br>A Little Bit About Me",
           "text": "My name is Amanda Aleman and I am 12 years old. I am currently in the 7th grade and I attend Miami Arts Studio. Even though my first priority is getting good grades in school, my favorite hobby is playing basketball. I have always been interested in the field of technology, and amazed on how fast the industry is growing every day...&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Bio. Extension.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>MORE</a> "
         },
@@ -1996,6 +1996,20 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "46px"
+            },
+            "SPAN": {
+              "font-size": "46px",
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "15px"
+            }
+          },
           "_anchor": "msg-box5-y",
           "_params": {
             "imageSize": "60",
@@ -2042,21 +2056,7 @@
           },
           "title": "SOLID COLOR <br><br><br>Continuation of Biography<br>",
           "text": "<span style=\"font-size: 15px; line-height: 1.5;\">...I have always loved to design things, whether it was a drawing, a logo, or a blueprint. One profession that has always been interesting to me is the graphic design field. With this job, I can combine my creative mind-set with my technological and design skills. I am also very interested in the interior design field, which also combines creativity and design. Even though one day I would absolutely love to go into one of those career paths, my dream ever since I was very young was to become a WNBA player. I push myself every day in school to get good grades so in the future, I can go into the profession of my choice. I live a very blessed life and I cannot wait to see what the future has in store for me!</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "text-align": "center",
-              "font-size": "46px"
-            },
-            "SPAN": {
-              "font-size": "46px",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "15px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     }
