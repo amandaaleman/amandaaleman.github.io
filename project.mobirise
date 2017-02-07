@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 47,
+    "uniqCompNum": 50,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -2360,6 +2360,69 @@
           "title": "<span style=\"color: inherit; line-height: 1.1;\">Continuation of Biography</span><br>",
           "text": "<span style=\"font-size: 15px; line-height: 1.5;\">...I have always loved to design things, whether it was a drawing, a logo, or a blueprint. One profession that has always been interesting to me is the graphic design field. With this job, I can combine my creative mind-set with my technological and design skills. I am also very interested in the interior design field, which also combines creativity and design. Even though one day I would absolutely love to go into one of those career paths, my dream ever since I was very young was to become a WNBA player. I push myself every day in school to get good grades so in the future, I can go into the profession of my choice. I live a very blessed life and I cannot wait to see what the future has in store for me!</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "Contact.html": {
+      "settings": {
+        "title": "Contact",
+        "meta_descr": "Web Maker Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-1d",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>15015 SW 24th Street, Miami, FL, 33185<br><br><br>\n<strong>Contacts</strong><br>\nEmail:aaleman@miamiartsstudio.com<br>\nPhone: 786-632-0855<br><br>",
+          "text2": "<ul class=\"mbr-contacts__list\"></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "aaleman@miamiartsstudio.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>",
+          "_styles": {
+            "STRONG": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     }
