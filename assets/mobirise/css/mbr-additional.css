@@ -540,6 +540,13 @@ h6,
 #contacts1-14 I {
   font-size: 11px;
 }
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1e H3 {
+  color: #ffffff;
+}
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }

@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -590,6 +590,29 @@
         "title": "Adobe Photoshop"
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "Photoshop Gallary",
+          "meta": "Produced By Amanda Aleman"
+        },
         {
           "_inherit": "gallery1",
           "_tags": [
