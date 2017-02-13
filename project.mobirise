@@ -2397,6 +2397,11 @@
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "STRONG": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts4-1d",
           "_params": {
             "paddingTop": "4",
@@ -2440,12 +2445,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>",
-          "_styles": {
-            "STRONG": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     }
