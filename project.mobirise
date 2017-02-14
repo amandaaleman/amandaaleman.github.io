@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 51,
-    "versionPublish": "3.11.1",
+    "uniqCompNum": 52,
+    "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -620,7 +620,7 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": 1,
             "images": [
               {
@@ -628,8 +628,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/sights-sounds-of-the-60s-2000x2588-800x1035.jpg",
-                "image": "@PROJECT_PATH@/assets/images/sights%20&%20sounds%20of%20the%2060's-2000x2588.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-5-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-5.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -638,8 +638,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hulk-3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hulk-3-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-2-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-2-2000x2000-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -648,8 +648,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/avengers-2000x982-800x392.png",
-                "image": "@PROJECT_PATH@/assets/images/avengers-2000x982.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-3-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -658,8 +658,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/composite-7-2000x2103-800x841.png",
-                "image": "@PROJECT_PATH@/assets/images/composite-7-2000x2103.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-4-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-4-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -668,8 +668,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/12-inch-record-layout-2000x3714-800x1485.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-inch-record-layout-2000x3714.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -678,8 +678,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -688,8 +688,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dvd-label-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dvd-label-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-7-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-7-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -698,8 +698,48 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/finished-marvel-symbols-6-2000x1973-800x789.jpg",
-                "image": "@PROJECT_PATH@/assets/images/finished-marvel-symbols-6-2000x1973.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-8-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-8-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-10-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-10-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-12-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-12-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -709,10 +749,10 @@
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
-            "fullWidth": false,
+            "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-1a",
+          "_anchor": "gallery3-1f",
           "articleLayout": false,
           "allItem": "All"
         }
