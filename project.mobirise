@@ -611,7 +611,7 @@
             "showMeta": true
           },
           "title": "Photoshop Gallary",
-          "meta": "Produced By Amanda Aleman"
+          "meta": "Produced By: Amanda Aleman"
         },
         {
           "_inherit": "gallery1",
@@ -630,7 +630,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-5-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-5.jpg",
-                "caption": "Type caption here",
+                "caption": "MAS Play: Sights &amp; Sounds of th 60's&nbsp;",
                 "active": false
               },
               {
@@ -640,7 +640,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-2-2000x2000-1-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-2-2000x2000-1.jpg",
-                "caption": "Type caption here",
+                "caption": "Hulk Logo Redraw",
                 "active": false
               },
               {
@@ -650,7 +650,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-3-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-3-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Avengers Label Redraw",
                 "active": false
               },
               {
@@ -660,7 +660,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-4-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-4-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Marvel Symbols Redraw",
                 "active": false
               },
               {
@@ -670,7 +670,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Marvel Heroes Redraw",
                 "active": false
               },
               {
@@ -680,7 +680,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Recoed Cover&nbsp;",
                 "active": false
               },
               {
@@ -690,7 +690,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-7-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-7-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Record Layout&nbsp;",
                 "active": false
               },
               {
@@ -700,7 +700,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-8-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-8-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Morphing Creation",
                 "active": false
               },
               {
@@ -710,7 +710,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "MDCPS Logo&nbsp;",
                 "active": false
               },
               {
@@ -720,7 +720,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-10-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-10-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Aerospace Engineer Brochure&nbsp;",
                 "active": false
               },
               {
@@ -730,7 +730,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "Flinstones Money",
                 "active": false
               },
               {
@@ -740,12 +740,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-12-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-12-2000x2000.jpg",
-                "caption": "Type caption here",
+                "caption": "King Kong Recreation",
                 "active": true
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
@@ -754,7 +754,12 @@
           },
           "_anchor": "gallery3-1f",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     },

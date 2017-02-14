@@ -547,6 +547,9 @@ h6,
 #header3-1e H3 {
   color: #ffffff;
 }
+#gallery3-1f .mbr-gallery-item > div > span {
+  text-align: center;
+}
 #ext_menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
