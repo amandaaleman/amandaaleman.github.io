@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 56,
+    "uniqCompNum": 58,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -36,6 +36,104 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header4-1k",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/motherboard-2000x820.jpg",
+            "bgColor": "#5900ff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Amanda Aleman",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a> "
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#a1bcda",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1l",
+          "articleLayout": false,
+          "allItem": "All"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -130,7 +228,8 @@
               "color": "#fff"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "19px"
             }
           },
           "_tags": [
@@ -139,9 +238,9 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-u",
           "_params": {
-            "imageSize": "30",
+            "imageSize": "32",
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "6",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -619,6 +718,11 @@
             "Theme"
           ],
           "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -754,12 +858,7 @@
           },
           "_anchor": "gallery3-1i",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_inherit": "menu",
