@@ -2623,7 +2623,7 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "Amanda Aleman",
           "text": "",
