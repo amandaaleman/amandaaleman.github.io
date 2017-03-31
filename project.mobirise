@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-26_0717",
-    "currentPage": "index.html",
+    "currentPage": "Adobe Photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3144,7 +3144,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-185x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-2-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
