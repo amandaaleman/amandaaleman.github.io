@@ -558,7 +558,7 @@ h6,
 }
 #ext_menu-4 .link[aria-expanded="true"],
 #ext_menu-4 .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #header3-18 .mbr-section-title,
 #header3-18 .mbr-section-subtitle {
@@ -623,7 +623,7 @@ h6,
 }
 #ext_menu-7 .link[aria-expanded="true"],
 #ext_menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
@@ -684,7 +684,7 @@ h6,
 }
 #ext_menu-8 .link[aria-expanded="true"],
 #ext_menu-8 .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
@@ -745,7 +745,7 @@ h6,
 }
 #ext_menu-b .link[aria-expanded="true"],
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -806,7 +806,7 @@ h6,
 }
 #ext_menu-d .link[aria-expanded="true"],
 #ext_menu-d .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
@@ -867,7 +867,7 @@ h6,
 }
 #ext_menu-e .link[aria-expanded="true"],
 #ext_menu-e .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-f .hide-buttons .nav-btn {
   display: none !important;
@@ -928,7 +928,7 @@ h6,
 }
 #ext_menu-f .link[aria-expanded="true"],
 #ext_menu-f .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-g .hide-buttons .nav-btn {
   display: none !important;
@@ -989,7 +989,7 @@ h6,
 }
 #ext_menu-g .link[aria-expanded="true"],
 #ext_menu-g .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-h .hide-buttons .nav-btn {
   display: none !important;
@@ -1050,7 +1050,7 @@ h6,
 }
 #ext_menu-h .link[aria-expanded="true"],
 #ext_menu-h .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
@@ -1111,7 +1111,7 @@ h6,
 }
 #ext_menu-i .link[aria-expanded="true"],
 #ext_menu-i .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-j .hide-buttons .nav-btn {
   display: none !important;
@@ -1172,7 +1172,7 @@ h6,
 }
 #ext_menu-j .link[aria-expanded="true"],
 #ext_menu-j .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
@@ -1233,7 +1233,7 @@ h6,
 }
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-l .hide-buttons .nav-btn {
   display: none !important;
@@ -1294,7 +1294,7 @@ h6,
 }
 #ext_menu-l .link[aria-expanded="true"],
 #ext_menu-l .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-m .hide-buttons .nav-btn {
   display: none !important;
@@ -1355,7 +1355,7 @@ h6,
 }
 #ext_menu-m .link[aria-expanded="true"],
 #ext_menu-m .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-n .hide-buttons .nav-btn {
   display: none !important;
@@ -1416,7 +1416,7 @@ h6,
 }
 #ext_menu-n .link[aria-expanded="true"],
 #ext_menu-n .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-o .hide-buttons .nav-btn {
   display: none !important;
@@ -1477,7 +1477,7 @@ h6,
 }
 #ext_menu-o .link[aria-expanded="true"],
 #ext_menu-o .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
+  color: #000000!important;
 }
 #ext_menu-v .hide-buttons .nav-btn {
   display: none !important;
@@ -1696,6 +1696,13 @@ h6,
   color: #ffffff;
 }
 #header3-1y SMALL {
+  color: #ffffff;
+}
+#msg-box8-22 .mbr-section-title,
+#msg-box8-22 p {
+  color: #fff;
+}
+#msg-box8-22 .lead {
   color: #ffffff;
 }
 #social-buttons4-1x .mbr-section-title,

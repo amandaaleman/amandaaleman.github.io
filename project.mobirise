@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 74,
+    "uniqCompNum": 75,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -74,8 +74,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000.jpg",
                 "caption": "MAS Play: Sights &amp; Sounds of the 60's",
                 "active": false
               },
@@ -84,8 +84,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-2-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-2-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-2-2000x2000.jpg",
                 "caption": "Hulk Logo Redraw",
                 "active": false
               },
@@ -114,8 +114,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-2-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000.jpg",
                 "caption": "Marvel Heroes Composite Redraw",
                 "active": false
               },
@@ -124,8 +124,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000.jpg",
                 "caption": "Record Cover",
                 "active": false
               },
@@ -134,8 +134,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-7-2000x2000-2-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-7-2000x2000-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-7-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-7-2000x2000.jpg",
                 "caption": "Record Layout",
                 "active": false
               },
@@ -154,8 +154,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-3-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000.jpg",
                 "caption": "MDCPS Logo",
                 "active": false
               },
@@ -174,8 +174,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000-3-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000.jpg",
                 "caption": "Flinstones Money",
                 "active": false
               },
@@ -562,7 +562,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-185x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -635,7 +635,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -748,7 +748,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -841,7 +841,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -934,7 +934,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1027,7 +1027,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1120,7 +1120,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1213,7 +1213,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1306,7 +1306,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1399,7 +1399,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1492,7 +1492,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1585,7 +1585,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1678,7 +1678,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1771,7 +1771,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1864,7 +1864,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1957,7 +1957,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -2050,7 +2050,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#3d8eb9!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -2163,7 +2163,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signature-185x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2224,7 +2224,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1430760903787-4d91bbf15384-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -2392,7 +2392,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2451,7 +2451,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-2735-1400x2286.png",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x2286.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2996,7 +2996,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x20000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3006,7 +3006,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x20001.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3015,8 +3015,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-2-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3025,8 +3025,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000-2-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -3042,6 +3042,43 @@
           "_anchor": "gallery3-1n",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-22",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#28324e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Introduction Video",
+          "text": "The following button will take you to an into. video of me and what &nbsp;makes me a digital designer",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=Bq4di7c_n4g\" data-toolbar=\"-mbrBtnMove\">Intro. Video</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -3144,7 +3181,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-2-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
