@@ -1684,10 +1684,6 @@ h6,
   text-align: center;
   color: #afccff;
 }
-#msg-box8-1z .mbr-section-title,
-#msg-box8-1z p {
-  color: #fff;
-}
 #header3-1y .mbr-section-title,
 #header3-1y .mbr-section-subtitle {
   text-align: center;
@@ -1703,6 +1699,9 @@ h6,
   color: #fff;
 }
 #msg-box8-22 .lead {
+  color: #ffffff;
+}
+#msg-box8-22 .mbr-section-title {
   color: #ffffff;
 }
 #social-buttons4-1x .mbr-section-title,
