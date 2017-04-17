@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-26_0717",
-    "currentPage": "index.html",
+    "currentPage": "Adobe Photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 75,
-    "versionPublish": "3.10.7",
+    "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
   "pages": {
@@ -214,7 +214,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-6-2000x2000.jpg",
                 "caption": "Record Cover",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -274,7 +274,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-12-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-12-2000x2000.jpg",
                 "caption": "King Kong Redraw",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -2451,7 +2451,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-2735-1400x2286.png",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x2286.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2960,7 +2960,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x20002.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2970,7 +2970,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x20003.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
