@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-26_0717",
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -102,7 +102,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128-1.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -191,8 +191,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-4-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-4-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-4-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-4-2000x2000-1.jpg",
                 "caption": "Marvel Symbols Redraw",
                 "active": false
               },
@@ -241,8 +241,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-2-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-2.jpg",
                 "caption": "MDCPS Logo",
                 "active": false
               },
@@ -330,8 +330,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/progress-check-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/progress-check-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/progress-check-1-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/progress-check-1-2000x2000-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -340,8 +340,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/progress-check-2-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/progress-check-2-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/progress-check-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/progress-check-2-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -410,8 +410,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/progress-check-9-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/progress-check-9-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/progress-check-9-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/progress-check-9-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -560,8 +560,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000-1-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2451,7 +2451,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-1400x2286.png",
+              "src": "@PROJECT_PATH@/assets/images/img-2735-1400x2286.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2959,8 +2959,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x200014.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-1-2000x2000-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2969,8 +2969,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x200015.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-5-2000x2000-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2979,8 +2979,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-3-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallary-9-2000x2000-3.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2989,8 +2989,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/progress-check-24-2000x2000-1.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -3148,7 +3148,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x128-2.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
