@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-26_0717",
-    "currentPage": "Introduction.html",
+    "currentPage": "Adobe Photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -231,6 +231,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gun-violence-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gun-violence-2000x2000.jpg",
+                "caption": "King Kong Redraw",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-8-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-8-2000x2000.jpg",
                 "caption": "Morphing Creation",
@@ -264,16 +274,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gallary-11-2000x2000.jpg",
                 "caption": "Flinstones Money",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallary-12-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gallary-12-2000x2000.jpg",
-                "caption": "King Kong Redraw",
                 "active": true
               }
             ],
