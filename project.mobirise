@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-26_0717",
-    "currentPage": "Adobe Photoshop.html",
+    "currentPage": "Introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2441,7 +2441,7 @@
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#010015",
+            "overlayColor": "#351900",
             "inverse": true,
             "showTitle": true,
             "showText": true,
@@ -2451,7 +2451,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-2735-1400x2286.png",
+              "src": "@PROJECT_PATH@/assets/images/img-1400x2490.jpg",
               "link": "",
               "alt": "",
               "title": "",
