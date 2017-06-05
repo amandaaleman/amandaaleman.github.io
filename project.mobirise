@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-26_0717",
-    "currentPage": "Introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3043,9 +3043,9 @@
             "showText": true,
             "showButton": true
           },
-          "title": "Introduction Video",
-          "text": "The following button will take you to an intro. video of me and what &nbsp;makes me a digital designer.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=Bq4di7c_n4g\" data-toolbar=\"-mbrBtnMove\">Intro. Video</a>"
+          "title": "Multimedia Night",
+          "text": "The following button will take you to one of the title slides that I built for the Miami Arts Studio Multimedia Night",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.youtube.com/watch?v=a3thgshWMV0&amp;feature=youtu.be\" data-toolbar=\"-mbrBtnMove\">Title Slide</a>"
         },
         {
           "_tags": [
